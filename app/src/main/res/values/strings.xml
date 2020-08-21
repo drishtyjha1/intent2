@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">intent2</string>
+    <string name="enter_phone_no">enter_phone _no</string>
+    <string name="button">Button</string>
+    <string name="intent_with_result">Intent with result</string>
+    <string name="login">Login</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="implicit_intent">implicit_intent</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="explicit_intent">explicit_intent</string>
+    <string name="enter_phone_number">Enter phone Number</string>
+    <string name="call">Call</string>
+    <string name="user_name">user name</string>
+    <string name="enter_user_data">enter user data</string>
+</resources>
